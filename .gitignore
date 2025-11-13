@@ -1,0 +1,60 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+nul
+*.stackdump
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*.old
+
+# Personal/Private
+**/PRIVATE/
+**/private/
+**/*.private.*
+personal-notes/
+scratch/
+
+# Build artifacts (if any code projects added later)
+node_modules/
+dist/
+build/
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# OS generated files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
