@@ -66,9 +66,9 @@ Las actividades secundarias deberán mantener relación directa con el objeto so
 
 ---
 
-## TÍTULO IV. DIRECCIÓN Y ADMINISTRACIÓN
+## TÍTULO III. DIRECCIÓN Y ADMINISTRACIÓN
 
-### ARTÍCULO SEXTO: ÓRGANO DE ADMINISTRACIÓN
+### ARTÍCULO QUINTO: ÓRGANO DE ADMINISTRACIÓN
 
 La representación legal y el uso de la firma social estará a cargo de un Órgano de Administración que puede estar integrado de 1 a 3 personas designadas en el acto constitutivo, el órgano de gobierno o el único accionista en caso de EAS UNIPERSONAL, quien(es) con su firma podrán obligar válidamente a la E.A.S.
 
@@ -87,7 +87,7 @@ Cualquiera de los administradores podrá actuar individualmente y obligar a la s
 - Disposición de bienes sociales
 - Cualquier acto o contrato que comprometa a la E.A.S.
 - Representación legal, judicial y extrajudicial de la sociedad
-- Todas las facultades conferidas al Órgano de Administración en el Artículo Séptimo
+- Todas las facultades conferidas al Órgano de Administración en el Artículo Sexto
 
 **Limitación:** No obstante la facultad de firma indistinta, requerirán la firma conjunta de ambos administradores únicamente:
 - La venta o gravamen de bienes inmuebles
@@ -95,7 +95,7 @@ Cualquiera de los administradores podrá actuar individualmente y obligar a la s
 - Disolución anticipada de la sociedad
 - Modificación del estatuto social
 
-### ARTÍCULO SÉPTIMO: ATRIBUCIONES DEL ÓRGANO DE ADMINISTRACIÓN
+### ARTÍCULO SEXTO: ATRIBUCIONES DEL ÓRGANO DE ADMINISTRACIÓN
 
 Corresponde al Órgano de Administración la representación legal de la E.A.S. y sus atribuciones:
 
@@ -133,13 +133,13 @@ p) Crear Sucursales, Agencias, Representaciones, etc., en el país o en el extra
 
 ---
 
-## TÍTULO V. DEL ÓRGANO DE GOBIERNO
+## TÍTULO IV. DEL ÓRGANO DE GOBIERNO
 
-### ARTÍCULO OCTAVO: AUTORIDAD MÁXIMA
+### ARTÍCULO SÉPTIMO: AUTORIDAD MÁXIMA
 
 La reunión del Órgano de Gobierno es la autoridad máxima de la E.A.S. Se reunirá en su domicilio legal en **DESTACAMENTO CAZAL 1023, SAN LORENZO, ASUNCIÓN, PARAGUAY**. Las mismas también pueden ser realizadas por medios telemáticos para lo cual deberán considerar todos los requisitos establecidos en el Art. 20 del Decreto Nº 3998/2020, que reglamenta la Ley Nº 6480/2020, en su artículo 20º. Sus resoluciones, conforme a la Ley y estos Estatutos obligan a todos los socios.
 
-### ARTÍCULO NOVENO: REUNIÓN ORDINARIA
+### ARTÍCULO OCTAVO: REUNIÓN ORDINARIA
 
 Corresponde al Órgano de Gobierno en reunión ordinaria considerar y resolver los siguientes puntos:
 
@@ -149,7 +149,7 @@ b) Designación de Órgano de Administración y fijación de sus retribuciones.
 
 c) Responsabilidad de los integrantes del Órgano de Administración y su remoción.
 
-### ARTÍCULO DÉCIMO: REUNIÓN EXTRAORDINARIA
+### ARTÍCULO NOVENO: REUNIÓN EXTRAORDINARIA
 
 Corresponde al Órgano de Gobierno en reunión extraordinaria todos los asuntos que no sean de la reunión Ordinaria, la modificación del Estatuto y en especial:
 
@@ -158,7 +158,7 @@ b) Emisión de debentures.
 
 La reunión Extraordinaria será convocada por el Órgano de Administración, cuando sea requerida por cualquiera de los socios. El Órgano de Administración convocará la reunión para que se celebre dentro de los treinta días de recibida la solicitud.
 
-### ARTÍCULO DÉCIMO PRIMERO: QUÓRUM Y VOTACIÓN
+### ARTÍCULO DÉCIMO: QUÓRUM Y VOTACIÓN
 
 La constitución de las reuniones del Órgano de Gobierno será válida con la presencia de la mayoría de los socios. Las resoluciones serán tomadas por mayoría simple de votos presentes, salvo en los casos que se menciona en el Art. 25º del Decreto Nº 3998/2020 que a efectos de salvaguardar los derechos de los socios minoritarios, todas las decisiones que guarden relación con la transformación de la EAS, la fusión o la escisión de ésta, deberán ser tomadas con el voto favorable de al menos las dos terceras partes de los socios.
 
@@ -178,11 +178,11 @@ La constitución de las reuniones del Órgano de Gobierno será válida con la p
 7. El Órgano de Administración deberá documentar todas las resoluciones emitidas por el SIAE en actas especiales, incluyendo los argumentos presentados por cada socio y el fundamento técnico de la decisión del sistema.
 8. El SIAE deberá ser auditado anualmente por un experto externo en inteligencia artificial para garantizar su imparcialidad, actualización y correcto funcionamiento.
 
-### ARTÍCULO DÉCIMO SEGUNDO: REPRESENTACIÓN EN REUNIONES
+### ARTÍCULO DÉCIMO PRIMERO: REPRESENTACIÓN EN REUNIONES
 
 Los socios podrán hacerse representar en las reuniones tanto ordinaria como extraordinaria por medio de una simple carta poder, que llevará la firma, del mandante, autenticada o registrada en la E.A.S. No pueden ser mandatarios los Directores, Gerentes y demás empleados de la E.A.S. (Art. 1.085 C.C.P.).
 
-### ARTÍCULO DÉCIMO TERCERO: PRESIDENCIA Y ACTAS
+### ARTÍCULO DÉCIMO SEGUNDO: PRESIDENCIA Y ACTAS
 
 La reunión del Órgano de Gobierno será presidida por el Presidente del Órgano de Administración o su reemplazante o en su defecto por una persona que designen los asistentes por mayoría. La reunión designará igualmente un secretario. Los integrantes del Órgano de Administración tienen derecho a voto siempre que sean socios, pero no podrán votar sobre la aprobación de los balances y demás cuentas y actos relacionados con su gestión administrativa, ni las resoluciones referentes a su responsabilidad y remoción.
 
@@ -190,13 +190,13 @@ Todos los socios tendrán las limitaciones que establece el Art. 1.095 del Códi
 
 ---
 
-## TÍTULO VI. EJERCICIO SOCIAL Y DISTRIBUCIÓN DE UTILIDADES
+## TÍTULO V. EJERCICIO SOCIAL Y DISTRIBUCIÓN DE UTILIDADES
 
-### ARTÍCULO DÉCIMO CUARTO: EJERCICIO FISCAL
+### ARTÍCULO DÉCIMO TERCERO: EJERCICIO FISCAL
 
 El Ejercicio Social se cerrará el día **31 de DICIEMBRE** de cada año, a cuya fecha se confeccionará el Inventario, el Balance General y la cuenta de Ganancias y Pérdidas.
 
-### ARTÍCULO DÉCIMO QUINTO: DISTRIBUCIÓN DE UTILIDADES
+### ARTÍCULO DÉCIMO CUARTO: DISTRIBUCIÓN DE UTILIDADES
 
 Las utilidades líquidas y realizadas se distribuirán de la siguiente manera:
 
@@ -210,9 +210,9 @@ El saldo se distribuirá entre los socios en partes iguales después de haber ef
 
 ---
 
-## TÍTULO VII. DISOLUCIÓN Y LIQUIDACIÓN
+## TÍTULO VI. DISOLUCIÓN Y LIQUIDACIÓN
 
-### ARTÍCULO DÉCIMO SEXTO: CAUSAS DE DISOLUCIÓN
+### ARTÍCULO DÉCIMO QUINTO: CAUSAS DE DISOLUCIÓN
 
 La E.A.S. se disolverá al terminar el plazo legal o en cualquiera de los casos contemplados en la Ley o en éstos Estatutos. La liquidación se hará por los liquidadores nombrados en reunión Extraordinaria que decida la liquidación.
 
@@ -220,15 +220,15 @@ La liquidación del remanente una vez cubierta las obligaciones sociales se har�
 
 ---
 
-## TÍTULO VIII. DISPOSICIONES TRANSITORIAS
+## TÍTULO VII. DISPOSICIONES TRANSITORIAS
 
-### ARTÍCULO DÉCIMO SÉPTIMO: GASTOS DE CONSTITUCIÓN
+### ARTÍCULO DÉCIMO SEXTO: GASTOS DE CONSTITUCIÓN
 
 Todos los gastos de constitución, inscripción, honorarios profesionales y demás erogaciones relacionadas con la formación de la E.A.S. serán sufragados por la sociedad y se imputarán a gastos generales.
 
-### ARTÍCULO DÉCIMO OCTAVO: PRIMERA ADMINISTRACIÓN
+### ARTÍCULO DÉCIMO SÉPTIMO: PRIMERA ADMINISTRACIÓN
 
-El primer Órgano de Administración queda constituido conforme al Artículo Sexto del presente Estatuto.
+El primer Órgano de Administración queda constituido conforme al Artículo Quinto del presente Estatuto.
 
 ---
 
