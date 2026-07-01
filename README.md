@@ -35,6 +35,11 @@ Official formation and governance documents:
 - **[Formation Checklist](company-info/corporate/AI-Whisperers-EAS-Checklist.md)** - Complete 8-phase formation roadmap
 - **[Paraguay Summary](company-info/corporate/AI-Whisperers-Paraguay-Summary.md)** - Quick reference for operations
 - **[EAS Example](company-info/contracts/EAS.example.pdf)** - Reference example document
+- **[Formation Plan](company-info/corporate/AI-Whisperers-EAS-Formation-Plan.md)** - Detailed formation plan (see Constitution for notarization)
+
+#### 🌐 [Strategy](company-info/strategy/)
+Jurisdiction and flag-theory planning:
+- **[Seven Flag Business Model](company-info/strategy/AI-Whisperers-Seven-Flag-Business-Model.md)** - Multi-jurisdiction optimization framework
 
 #### ⚖️ [Legal](company-info/legal/)
 Legal analysis and comparisons:

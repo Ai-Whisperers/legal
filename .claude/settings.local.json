@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nActualizar estatuto: eliminar capital/acciones y agregar resolución por IA\n\nCambios principales:\n- Eliminado TÍTULO III completo sobre Capital Social y Acciones\n- Reemplazadas todas las referencias de \"acciones/accionistas\" por \"socios\"\n- Cambiado \"capital social\" a \"patrimonio neto de la sociedad\"\n- Actualizado domicilio a SAN LORENZO, PARAGUAY\n- Modificada firma de administradores a indistinta (antes conjunta)\n- Agregado Sistema de IA Empresarial (SIAE) para resolución de empates\n- El SIAE será vinculante para decisiones operativas/tácticas\n- Para decisiones estratégicas, el SIAE será consultivo\n- Incluye auditoría anual del sistema de IA\n- Agregado \"Outsourcing\" en servicios de consultoría IA\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
